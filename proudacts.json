@@ -1,58 +1,101 @@
 [
+  {
+    "id": 1,
+    "name": "Logitech G29 Driving Force Racing Wheel and Floor Pedals",
+    "price": 79.00,
+    "image": "https://i.ibb.co/fdMJRzGf/97c8e64b-542c-4191-ae6b-d0269db83298-removalai-preview.png",
+    "description": "Immersive Gaming Experience: Perfect for PlayStation 5, PS4, and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals. Premium Control: The Driving Force feedback racing wheel provides a detailed simulation of driving a real car, with helical gearing delivering smooth, quiet steering and a hand-stitched leather cover. Customizable Pedals: These pressure-sensitive nonlinear brake pedals provide a responsive, accurate braking feel on a sturdy base - with adjustable pedal faces for finer control. 900-Degree Rotation: Lock-to-lock rotation of the Driving Force means you can turn the wheel around two and a half times, hand over hand on wide turns - just like a real F1 race car. Up Your Game: Take your racing simulation to the next level with Driving Force accessories like the Driving Force Shifter or desk and rig mounts. The plastic parts in G29 Driving Force include 52 percent certified post-consumer recycled plastic. Certified carbon neutral. Total Wheel Control: Control wheel sensitivity, force feedback levels, and button customization via powerful G HUB Gaming Software for PC. Download at logitechG /downloads. Wheel Dimensions: Length: 10.24 in (260 mm), Height: 10.63 in (270 mm), Width: 10.94 in (278 mm), Weight without cables: 4.96 lb (2.25 Kg). Pedals Dimensions: Length: 16.87 in (428.5 mm), Height: 6.57 in (167 mm), Width: 12.24 in (311 mm), Weight without cables: 6.83 lb (3.1 Kg). Compatible with Windows 11, Windows 10, Windows 8.1, Windows 8, Windows 7.",
+    "url": "https://amzn.to/4hjr09d"
+  },
+  {
+    "id": 2,
+    "name": "Turtle Beach Stealth 700 Gen 3 Wireless Multiplatform Amplified Gaming Headset",
+    "price": 159.00,
+    "image": "https://i.ibb.co/Vp0BM8gZ/id2.png",
+    "description": "Ultimate Wireless Audio Experience: Enjoy simultaneous low-latency 2.4GHz wireless and Bluetooth 5.2 connectivity for seamless gaming across multiple platforms, with immersive spatial audio from 60mm Eclipse Dual Drivers. Superior Audio Control: Flip-to-Mute AI-based noise-canceling mic, advanced 10-band EQ via Swarm II app, and mappable controls let you tailor the audio experience. Built-in EQ modes and Superhuman Hearing further enhance gameplay. Unrivaled Comfort and Design: Memory foam cushions with glasses-friendly technology, a lay-flat steel-reinforced frame, and an adjustable headband provide exceptional comfort during extended gaming sessions. Unbeatable Battery Life: Experience up to 80 hours of uninterrupted gaming with the long-lasting battery, plus quick-charge capability for on-the-go convenience.",
+    "url": "https://amzn.to/4hkkuz6"
+  },
+  {
+    "id": 3,
+    "name": "PlayStation DualSense Edge Wireless Controller",
+    "price": 199.00,
+    "image": "https://i.ibb.co/ZRW2Ct0Y/e9f74146-733a-41c9-a44d-0e20171246c7-removalai-preview.png",
+    "description": "Aim and move with precision by swapping in fresh stick modules* so you’re always playing with equipment that’s in great shape. Plus, three types of changeable stick caps help you stay comfortable in-game without sacrificing grip or stability. Mappable back buttons: The DualSense Edge wireless controller’s two swappable sets of back buttons can be configured to any other button input, so you’ve always got game-changing actions and essential controls at your fingertips. Adjustable trigger lengths: Manually set the travel distance of your left and right triggers for an optimal experience with whatever you’re playing. Fast-paced FPS? Set a shorter travel distance to shoot faster on the field. Competitive racer? Set a longer travel distance for precise throttle control on the track. Remappable buttons: Remap or even deactivate specific button inputs, so you can create a completely personalized control setup that’s ideal for the game at hand. Quick-swap control profiles: Once you’ve found your ideal control settings, you can save them to unique profiles and swap between them on-the-fly, so your favourite configurations are always ready when you are.",
+    "url": "https://amzn.to/3EoV44D"
+  },
+  {
+    "id": 4,
+    "name": "Sceptre Curved 24-inch Gaming Monitor 1080p",
+    "price": 96.00,
+    "image": "https://i.ibb.co/gM6Hv63r/db95aa85-30b4-4104-9395-2fb6947ac22d-removalai-preview-2.png",
+    "description": "24-Inch Curved VA Display: Experience an immersive viewing experience with the 1800R curved panel, 1920 x 1080 Full HD resolution, and a 16:9 aspect ratio. Responsive Performance: Enjoy smooth visuals with a 75Hz refresh rate and 5ms response time, complemented by Adaptive Sync (FreeSync) technology. Connectivity Options: Connect your devices via HDMI, VGA, and PC audio input ports, with a total of 2 HDMI ports available. Adjustable Viewing: The monitor features a VESA wall mount compatibility, allowing you to customize the viewing angle and position.",
+    "url": "https://amzn.to/4aHd1aJ"
+  },
+  {
+    "id": 5,
+    "name": "MoNiBloom Gaming Chair",
+    "price": 120.00,
+    "image": "https://i.ibb.co/k2y8HVyx/174a11a0-1577-4de4-bad8-d65e18dc1ede-removalai-preview.png",
+    "description": "Ergonomic Design: This gaming chair features an ergonomic seat shell with a gentle curvature and firm lumbar support, promoting a healthy sitting posture and relieving back strain during extended gaming sessions. Adjustable Comfort: The medium-firm upholstery foam evenly distributes weight and relieves pressure, while the seatback and footrest can recline up to 180 degrees, providing comprehensive support for your head, shoulders, back, and legs. Durable and Breathable: Constructed with faux leather that is scratch-resistant, fade-resistant, and features breathable holes to keep you cool, ensuring long-lasting use and comfort. Practical Details: This chair is made by MoNiBloom, requires assembly, has a swivel base, supports up to 300 lbs, and comes with a warranty.",
+    "url": "https://amzn.to/3Q4cwxZ"
+  },
+  {
+    "id": 6,
+    "name": "Beats Studio Buds - True Wireless Noise Cancelling Earbuds",
+    "price": 99.00,
+    "image": "https://i.ibb.co/qBFjXJn/id-6-prev-ui-1.png",
+    "description": "Premium Sound Quality: Custom acoustic platform delivers powerful, balanced sound through advanced drivers and audio engineering. Versatile Listening Modes: Active Noise Cancelling mode blocks outside noise for immersive audio, while Transparency mode lets you hear your surroundings. Seamless Connectivity: Class 1 Bluetooth technology provides extended range and fewer dropouts, compatible with Apple and Android devices. All-Day Battery Life: Up to 8 hours of listening time per charge, plus 24 hours of combined playback with the charging case.",
+    "url": "https://amzn.to/42G2E4P"
+  },
 
     {
-        "id": 1,
-        "name": "Logitech G29 Driving Force Racing Wheel and Floor Pedals",
-        "price": 79.00,
-       "image": "https://www.slazzer.com/downloads/3c14b859-d8ac-11ef-a88e-b347d7ab6478/img00_prev_ui.png",
-        "description": "Immersive Gaming Experience: Perfect for PlayStation 5, PS4, and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals. Premium Control: The Driving Force feedback racing wheel provides a detailed simulation of driving a real car, with helical gearing delivering smooth, quiet steering and a hand-stitched leather cover. Customizable Pedals: These pressure-sensitive nonlinear brake pedals provide a responsive, accurate braking feel on a sturdy base - with adjustable pedal faces for finer control. 900-Degree Rotation: Lock-to-lock rotation of the Driving Force means you can turn the wheel around two and a half times, hand over hand on wide turns - just like a real F1 race car. Up Your Game: Take your racing simulation to the next level with Driving Force accessories like the Driving Force Shifter or desk and rig mounts. The plastic parts in G29 Driving Force include 52 percent certified post-consumer recycled plastic. Certified carbon neutral. Total Wheel Control: Control wheel sensitivity, force feedback levels, and button customization via powerful G HUB Gaming Software for PC. Download at logitechG /downloads. Wheel Dimensions: Length: 10.24 in (260 mm), Height: 10.63 in (270 mm), Width: 10.94 in (278 mm), Weight without cables: 4.96 lb (2.25 Kg). Pedals Dimensions: Length: 16.87 in (428.5 mm), Height: 6.57 in (167 mm), Width: 12.24 in (311 mm), Weight without cables: 6.83 lb (3.1 Kg). Compatible with Windows 11, Windows 10, Windows 8.1, Windows 8, Windows 7.",
-        "url": "https://www.amazon.com/Logitech-Dual-motor-Feedback-Responsive-PlayStation/dp/B00Z0UWWYC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.J8w2gQU7z60xU_0aYhBRFgOu4N3ukJYUdauqwDDpmbFldZKCA5Fxyi6j-yhsOswDIKsJ8sBOQbxGkZpe-8le4khXKym34WAGPgNc6XogasapTECmbZZ-XhBx27_I2UHUjvGof3UYZL9U2LErl5_Go3Mnrnhv7Hgn4-v_oMyv4JEGEcz8X8DlhTtL8S8pwaM-zOINHKE0-qleEMnHV_aOgIIdej_MpTzq7wL_viiO0qybPr3lhWX3zZiDbZ5vRY8v2miaUqNZJvEeZOzOZemtyap9qTMl4hYphbpiAkB1BeDBcWol_DA_2c_mYkBaBrROXHl5D1KBR3JDpC0QNOnb-LcN1QulbvJlSdvSi4QWMhSXapr6CSTRHjtu-F1d1rdan_K2DvSfa85Bi5-lFQVKaxIRuQ2ORdmj7MYT_-8AHa8UvjBWVuyVZZPgBPeP-w5K.LF38ZBWHYi7jRTmTcaYTVdRFg2SkyehmJgAnWxrGamo&dib_tag=se&keywords=gaming%2Baccessories&qid=1737541482&sr=8-2&th=1"
-      },
-      {
-        "id": 2,
-        "name": "Turtle Beach Stealth 700 Gen 3 Wireless Multiplatform Amplified Gaming Headset ",
-        "price": 159.00,
-        "image": "https://www.slazzer.com/downloads/4c96871d-d8af-11ef-8c02-4fa7ce85451c/71oLbyE2CfL._AC_SX679__prev_ui.png",
-        "description": "Ultimate Wireless Audio Experience: Enjoy simultaneous low-latency 2.4GHz wireless and Bluetooth 5.2 connectivity for seamless gaming across multiple platforms, with immersive spatial audio from 60mm Eclipse Dual Drivers. Superior Audio Control: Flip-to-Mute AI-based noise-canceling mic, advanced 10-band EQ via Swarm II app, and mappable controls let you tailor the audio experience. Built-in EQ modes and Superhuman Hearing further enhance gameplay. Unrivaled Comfort and Design: Memory foam cushions with glasses-friendly technology, a lay-flat steel-reinforced frame, and an adjustable headband provide exceptional comfort during extended gaming sessions. Unbeatable Battery Life: Experience up to 80 hours of uninterrupted gaming with the long-lasting battery, plus quick-charge capability for on-the-go convenience.",
-        "url": "https://www.amazon.com/dp/B0DB9LQ7R5/ref=sspa_dk_detail_1?pd_rd_i=B0DB9LQ7R5&pd_rd_w=3CzCo&content-id=amzn1.sym.2283fd66-e1b9-4348-a035-8043f03d31b8&pf_rd_p=2283fd66-e1b9-4348-a035-8043f03d31b8&pf_rd_r=Y36Z9PDCW6FVCYJ406YS&pd_rd_wg=mkazZ&pd_rd_r=167acc17-202a-4cff-86b1-5ec3ad3df78b&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1"
-      },
-      {
-        "id": 3,
-        "name": "PlayStation DualSense Edge Wireless Controller",
-        "price": 199.00,
-        "image": "https://www.slazzer.com/downloads/f510962b-d8b0-11ef-8c02-4fa7ce85451c/1b721c92-8148-46cc-825a-1b41b8928b14.c6d7ccefa1a2d4619aa31c642b71e160%20%281%29_prev_ui.png",
-        "description": "Aim and move with precision by swapping in fresh stick modules* so you’re always playing with equipment that’s in great shape. Plus, three types of changeable stick caps help you stay comfortable in-game without sacrificing grip or stability. Mappable back buttons: The DualSense Edge wireless controller’s two swappable sets of back buttons can be configured to any other button input, so you’ve always got game-changing actions and essential controls at your fingertips. Adjustable trigger lengths: Manually set the travel distance of your left and right triggers for an optimal experience with whatever you’re playing. Fast-paced FPS? Set a shorter travel distance to shoot faster on the field. Competitive racer? Set a longer travel distance for precise throttle control on the track. Remappable buttons: Remap or even deactivate specific button inputs, so you can create a completely personalized control setup that’s ideal for the game at hand. Quick-swap control profiles: Once you’ve found your ideal control settings, you can save them to unique profiles and swap between them on-the-fly, so your favourite configurations are always ready when you are.",
-        "url": "https://www.amazon.com/PlayStation-DualSense-Edge-Wireless-Controller-5/dp/B0BSYFB99D/ref=pd_bxgy_thbs_d_sccl_1/131-7736716-5238021?pd_rd_w=ySaVk&content-id=amzn1.sym.53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_p=53b72ea0-a439-4b9d-9319-7c2ee5c88973&pf_rd_r=S8BC80EHV22BM3BQ497S&pd_rd_wg=huNez&pd_rd_r=6317a137-b5b7-40c0-ba90-f5e602d83b30&pd_rd_i=B0BSYFB99D&th=1"
-      },
-      {
-        "id": 4,
-        "name": "Sceptre Curved 24-inch Gaming Monitor 1080p",
-        "price": 96.00,
-        "image": "",
-        "description": "24-Inch Curved VA Display: Experience an immersive viewing experience with the 1800R curved panel, 1920 x 1080 Full HD resolution, and a 16:9 aspect ratio. Responsive Performance: Enjoy smooth visuals with a 75Hz refresh rate and 5ms response time, complemented by Adaptive Sync (FreeSync) technology. Connectivity Options: Connect your devices via HDMI, VGA, and PC audio input ports, with a total of 2 HDMI ports available. Adjustable Viewing: The monitor features a VESA wall mount compatibility, allowing you to customize the viewing angle and position.",
-        "url": "https://www.amazon.com/Sceptre-Curved-Monitor-Speakers-C248W-1920RN/dp/B07KXSR99Y/ref=sr_1_5?crid=1R3DFF3LO16ZE&dib=eyJ2IjoiMSJ9.EP7tbRJ1MEadMHhat-Rt-XJdUkl0no6lcnRc-WDt3lb75t94C01azAZIhh31NMqy5rLimSSjqq7k_9QXVmH2Uun8LZG-ZLPmGgnQCvY1a1rJHhh2MzNS2J-qdLjsVXcCLwqDefSohrdNBjvdF-zOuZ9_BpGB-nKI0eOLrPEa3wixuBnjg2IJRLsbjGtznb59VVZrhy9LmQpepphnkpygMRFLI6GlrNgtcP_jjMmjvzo.XXu0IsZWfi6SVxuQheCWhgk_-Y0gWO9Hgap7n0isI4s&dib_tag=se&keywords=gaming%2Bmonitor&qid=1737544580&sprefix=gaming%2B%2Caps%2C505&sr=8-5&th=1"
-      },
-      
-      {
-        "id": 5,
-        "name": "MoNiBloom Gaming Chair",
-        "price": 120.00,
-        "image": null,
-        "description": "Ergonomic Design: This gaming chair features an ergonomic seat shell with a gentle curvature and firm lumbar support, promoting a healthy sitting posture and relieving back strain during extended gaming sessions. Adjustable Comfort: The medium-firm upholstery foam evenly distributes weight and relieves pressure, while the seatback and footrest can recline up to 180 degrees, providing comprehensive support for your head, shoulders, back, and legs. Durable and Breathable: Constructed with faux leather that is scratch-resistant, fade-resistant, and features breathable holes to keep you cool, ensuring long-lasting use and comfort. Practical Details: This chair is made by MoNiBloom, requires assembly, has a swivel base, supports up to 300 lbs, and comes with a warranty .",
-        "url": "https://www.amazon.com/MoNiBloom-Footrest-Headrest-Adjustable-Computer/dp/B0BMZ28V18/ref=sr_1_8?crid=3RWHPCWPZ59GK&dib=eyJ2IjoiMSJ9.35G5T9QZtr0kyUCougKbqPLVe4Jh_YUncMWwrMEk5gkrUODpGgdC5ue83JtGi2JFFSA2yzRPdLom_2tHkdZwdCAmZPwuLjmNOSY-0uGJbRlM7amb2LayHIFA6RYNhu1RGGO0yhun4eccGNUOXIQwfigl_TBSQOkelRjTvg49p7VVoHbshUE2Y8Z4NAZOeCOiPytnnYHpfBENlYevpf1fD7WMLxm-zWkWl3NLRvimuvNBXQFiTYZoxx0R4lZLKYgfQxemKKwERbgYf-Cpkr82w7QRuy9Zp5cesvYDFSWzb-k1pLJAPPM1Av5EdEZ_TedvYtO2-JoDrD2TeHrqQ7fd4oUfnLcBcq0NogZbC2YeajzTVKCPhHrqXOqaP3vEgt27p7CTYnAQ72_I3wsbth50TlvB7RWRJ69MSE_lZ02zMfACKLFvy3mM_3xEYExW56mk.2Sm7tC2GWfFJL-MeThg2s-yVWDZXFeWDyeunzJ04GRA&dib_tag=se&keywords=gaming%2Bchair&qid=1737544909&sprefix=gaming%2Bcha%2Caps%2C647&sr=8-8&th=1"
-      },
-      {
-        "id": 6,
-        "name": "Beats Studio Buds - True Wireless Noise Cancelling Earbuds",
-        "price": 99.00,
-        "image":"https://i.ibb.co/qBFjXJn/id-6-prev-ui-1.png",
-        "description": "Premium Sound Quality: Custom acoustic platform delivers powerful, balanced sound through advanced drivers and audio engineering. Versatile Listening Modes: Active Noise Cancelling mode blocks outside noise for immersive audio, while Transparency mode lets you hear your surroundings. Seamless Connectivity: Class 1 Bluetooth technology provides extended range and fewer dropouts, compatible with Apple and Android devices. All-Day Battery Life: Up to 8 hours of listening time per charge, plus 24 hours of combined playback with the charging case.",
-        "url": "https://www.amazon.com/Beats-Studio-Cancelling-Earbuds-Built-Bluetooth-Headphones/dp/B096SRYXMP/ref=sr_1_7?crid=1FXNA1D73GW7J&dib=eyJ2IjoiMSJ9.i20EQmR1dTvL9NY1orx4TNIyNQEiTHzKEjCGFL5-JkZ0aYUV5X_nAfkK4hI6Qq08WG9Q7ZiuUmaM-BFxBx20nXbfyUnbQ27GqIsA4L0CnbafSiJKDWomJ3Z--8NqJUyXKxuORVIkgFAr0B9X1FUJ6z9rXSp5vMJNKn0GMGlBy5eTaP-FJmSaGDIHDGU4RB52n8QsUXRGdTHYF1aTQNU8Kn9No1qvKJ87HLk39vRCVVI.juy4gqcrtFyv2MCwQjaKOExDLhWiKKFdccGY4DCpU-s&dib_tag=se&keywords=airpods&qid=1737547785&sprefix=air%2Caps%2C697&sr=8-7"
-      }
-      
-      
-      
-      
-      
-      
+      "id": 7,
+      "name": "MSI GF63 Premium Gaming Laptop, 15.6\" FHD Thin-Bezel Display,",
+      "price": 799,
+      "image": "https://i.ibb.co/Cp8CLGkh/eec30a75-82ea-4b89-9325-43ee2ca0949e-removalai-preview.png",
+      "description": "【Processor】 Intel Core i5-10300H 10th Gen, 2.50 GHz base frequency, up to 4.50 GHz with Intel Turbo Boost Technology | NVIDIA GeForce GTX 1650 Max-Q 4GB GDDR6 【Display】15.6\" FHD (1920*1080), IPS-Level 60Hz 45%NTSC Thin Bezel, Non-Touch Screen, enjoy your photos, movies, and games with the crisp quality. 【RAM and Storage】RAM is upgraded to 32GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; Hard Drive is upgraded to 1TB PCIe NVMe Solid State Drive allows to fast bootup and data transfer and file and game storage. 【Operating System】Windows 10 Home, 64-bit, English | 1 USB 3.1 Gen 1 Type-C, 3 USB 3.2 Gen 1 Type-A, 1 HDMI, 1 RTL8111HS-CG, 1 Audio Input, 1 Audio Output, | Single backlight with Anti-Ghost key+ silver lining 【Included in the package】Bundled with Microfiber Cloth",
+      "url": "https://amzn.to/4gqg5cs"
+    },
+    {
+      "id": 8,
+      "name": "SteelSeries Rival 3 Gaming Mouse",
+      "price": 19.23,
+      "image": "https://i.ibb.co/LzW4LgcS/add7bf3d-8a05-4b73-92d8-32bef40244b6-removalai-preview.png",
+      "description": "Hyper durable materials Engineered with high-grade polymer for durability 60 million click mechanical switches – To feel crisp from the first click to the last TrueMove Core optical gaming sensor – True 1-to-1 tracking 8500 CPI, 300 IPS, 35g acceleration Comfortable ergonomic construction – Ergonomically designed to provide comfort for intense gaming sessions Brilliant prism lighting – Redesigned lighting provides 3 zones of 16.8 million beautifully crisp colors",
+      "url": "https://amzn.to/3CqQJgR"
+    },
+    {
+      "id": 9,
+      "name": "Redragon K582 RGB LED Backlit Mechanical Gaming Keyboard, 100% Standard Layout Gaming Keyboard",
+      "price": 23.99,
+      "image": "https://i.ibb.co/23vg5mvK/29d71fd5-fed0-40b8-b8b1-8bbaacb39d5c-removalai-preview.png",
+      "description": "Responsive Linear Switches: Featuring Redragon's signature red linear switches for a smooth, consistent keystroke with minimal actuation force - ideal for gaming and typing. Anti-Ghosting with Macro Support: Full N-key rollover and programmable keys allow for accurate inputs and custom macro creation, taking your gaming experience to new heights. Vibrant RGB Backlighting: Immerse yourself in 6 dynamic lighting themes with 18 different modes, fully adjustable to suit your preference and gaming environment. Built to Last: Constructed with a sturdy double-injection molded base, durable ABS keycaps, and rated for 50 million keystrokes, this keyboard withstands the rigors of intense gameplay.",
+      "url": "https://amzn.to/4aH3FvL"
+    },
+    {
+      "id": 10,
+      "name": "GTRACING 55 Inch Gaming Desk, Computer Gamer Desk with Monitor Stand",
+      "price": 80,
+      "image": "https://i.ibb.co/DDJCX86T/59d11f48-5141-4265-9b9f-8821b4ffa08c-removalai-preview.png",
+      "description": "Versatile Gaming and Work Desk: This 55-inch computer desk from GTRACING serves as an ergonomic gaming, office, or writing desk, suitable for various settings like homes, offices, dorm rooms, or bedrooms. Convenient Power and Cable Management: Stay powered up with the cleverly designed power strip offering two AC outlets and two USB ports, while the 4.9-foot power cord allows flexible positioning. Cable management features help keep your workspace organized. Customizable LED Lighting: Enhance your gaming or work experience with 16 static LED colors and 6 lighting modes, controlled via a remote for a fun and stimulating atmosphere. The energy-efficient LED strips have a memory function to retain the previous mode. Ergonomic Design for Comfort: The desk features a monitor stand to reduce discomfort during long gaming or work sessions, an anti-slip mouse pad, two headphone hooks, and adjustable anti-slip footpads for user-friendliness. The carbon fiber desktop offers water resistance, anti-slip properties, and a curved geometric design for comfort.",
+      "url": "https://amzn.to/4hId9ZJ"
+    },
+    {
+      "id": 11,
+      "name": "PlayStation 4 Slim 1TB Console",
+      "price": 133,
+      "image": "https://i.ibb.co/mrtjJ7H6/3d3fad5f-cff7-4422-b092-5a82617eac67-removalai-preview-1.png",
+      "description": "Incredible games. Endless entertainment. All new lighter slimmer PS4 1TB hard drive All the greatest, games, TV, music and more",
+      "url": "https://amzn.to/4hJYBc2"
+    },
+    {
+      "id": 12,
+      "name": "PlayStation®5 console (slim)",
+      "price": 444.9,
+      "image": "https://i.ibb.co/KcHpb8vG/96fad759-7bd7-4a62-8278-fd8649633e7c-removalai-preview.png",
+      "description": "Model Number CFI-2000 Includes DualSense Wireless Controller, 1TB SSD, Disc Drive, 2 Horizontal Stand Feet, HDMI Cable, AC power cord, USB cable, printed materials, ASTRO’s PLAYROOM (Pre-installed game) Vertical Stand sold separately",
+      "url": "https://amzn.to/40Y8ygu"
+    }
+
+  
 ]
